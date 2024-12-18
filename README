@@ -1,8 +1,5 @@
 # AUTHOR
-(Fatuma Galgalo)
-
-# Date
-(15/06/2024)
+(Abdurizak Abubakar)
 
 ## Description
 The Medical Record System is a command-line application designed to manage patient and doctor information, as well as schedule and list appointments. This system uses SQLite as the database backend and SQLAlchemy as the ORM (Object Relational Mapper).
